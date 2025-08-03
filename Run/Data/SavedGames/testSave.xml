@@ -1,0 +1,10 @@
+<ChessMatch>
+    <Move>ChessMove from=b2 to=b4</Move>
+    <Move>ChessMove from=d7 to=d5</Move>
+    <Move>ChessMove from=g2 to=g3</Move>
+    <Move>ChessMove from=g8 to=f6</Move>
+    <Move>ChessMove from=g1 to=f3</Move>
+    <Move>ChessMove from=b7 to=b5</Move>
+    <Move>ChessMove from=c2 to=c4</Move>
+    <Move>ChessMove from=b5 to=c4</Move>
+</ChessMatch>
